@@ -8,7 +8,7 @@ const Header = () => {
       <div className='d-flex align-items-center'>
         <div className='logo me-auto'>
           <Link to="">
-            <h1 className='m-0'>CIs</h1>
+            <h1 className='m-0'>LOGO</h1>
           </Link>
         </div>
         <nav className='menu-link'>
