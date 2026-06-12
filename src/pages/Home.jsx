@@ -1,12 +1,14 @@
 import React from 'react';
+import BannerSlider from '../components/BannerSlider';
+import HeroBanner from '../components/HeroBanner';
+
+
 
 const Home = () => {
   return (
     <>
-      <div>Home</div>
-      <button className="btn btn-success">
-        Test Button
-      </button>
+      <HeroBanner/>     
+      <BannerSlider />
     </>
   );
 };
