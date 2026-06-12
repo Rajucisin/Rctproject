@@ -35,7 +35,7 @@ const HeroBanner = () => {
                         </p>
                         <div class="flex flex-wrap gap-5 mt-10">
                                 Lorem
-                            <a href="/"
+                            <a href='/'
                                 class="px-8 py-4 rounded-full bg-gradient-to-r from-[#C44A2A] to-[#8B2E1F] text-white font-semibold uppercase tracking-wide shadow-[0_0_30px_rgba(196,74,42,0.4)]">
                                 Download The App
                             </a>
