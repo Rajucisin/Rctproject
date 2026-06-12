@@ -46,6 +46,8 @@ const HeroBanner = () => {
                                 Available on iOS & Android
                             </a>
 
+                            <div className=''></div>
+
                         </div>
                     </div>
                 </div>
