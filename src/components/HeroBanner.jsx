@@ -35,12 +35,12 @@ const HeroBanner = () => {
                         </p>
                         <div class="flex flex-wrap gap-5 mt-10">
 
-                            <a href="#"
+                            <a href="/"
                                 class="px-8 py-4 rounded-full bg-gradient-to-r from-[#C44A2A] to-[#8B2E1F] text-white font-semibold uppercase tracking-wide shadow-[0_0_30px_rgba(196,74,42,0.4)]">
                                 Download The App
                             </a>
 
-                            <a href=''
+                            <a href='/'
                                 class="px-8 py-4 rounded-full border border-gray-800 text-gray-400 flex items-center gap-3 uppercase tracking-wide">
                                 <span class="w-2 h-2 rounded-full bg-[#C44A2A]"></span>
                                 Available on iOS & Android
