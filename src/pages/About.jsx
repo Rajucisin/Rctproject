@@ -4,7 +4,13 @@ const About = () => {
   return (
     <>
     <div>About</div>
-    <div className="container">
+    <div className="container w-full mx-auto px-3
+                sm:max-w-[540px]
+                md:max-w-[720px]
+                lg:max-w-[960px]
+                xl:max-w-[1140px]
+                2xl:max-w-[1440px]"
+                >
       What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.
 
